@@ -1,5 +1,7 @@
 ## Hi there Iam Prasanna👋
 
+Data Science Trainee | Aspiring Data Scientist and Data Analyst|
+
 <!--
 **RongaliPrasanna/RongaliPrasanna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
