@@ -1,4 +1,4 @@
-## Hi there I'M Prasanna👋
+## Hi there I'm Prasanna👋
 Aspiring Data Scientist | Data Analyst|
 
 
