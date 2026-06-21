@@ -1,6 +1,6 @@
-## Hi there Iam Prasanna👋
+## Hey there! I'm Prasanna👋
 
-Data Science Trainee | Aspiring Data Scientist and Data Analyst|
+Data Scince Trainee | Aspiring Data Scientist | Data Analyst
 
 What I know
 ## 💻 Tech Stack
