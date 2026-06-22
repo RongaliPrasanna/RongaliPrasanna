@@ -1,9 +1,9 @@
 ## Hi there I'm Prasanna👋
 Aspiring 📊 Data Scientist | Data Analyst|🐍 Python Developer
 <p align="center">
-  <img src="Prasanna.png" width="350">
+  <img src="Prasanna.png.png" width="350">
 </p>
->
+
 
 
 
