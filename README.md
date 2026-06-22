@@ -1,6 +1,6 @@
 ## Hi there I'm Prasanna👋
 Aspiring 📊 Data Scientist | Data Analyst|🐍 Python Developer
-<p align="center">
+<p align="left">
   <img src="Prasanna.png.jpeg" width="350">
 </p>
 
