@@ -1,7 +1,7 @@
 ## Hi there I'm Prasanna👋
 Aspiring 📊 Data Scientist | Data Analyst|🐍 Python Developer
 <p align="center">
-  <img src="Prasanna.png.jpeg" width="250">
+  <img src="Prasanna.png.jpeg" width="350">
 </p>
 
 
