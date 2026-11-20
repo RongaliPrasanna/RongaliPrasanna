@@ -1,7 +1,7 @@
 ## Hi there I'm Prasanna👋
 Data Scientist
 <p align="center">
-  <img src="your-image-path.png" width="350"/>
+  <img src=""C:\Users\Prasanna Rongali\Downloads\Prasanna.png (2).jpeg"" width="350"/>
 </p>
 
 
