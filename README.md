@@ -1,5 +1,6 @@
-## Hi there I'm Prasanna👋
-Data Scientist
+# 👋 Hi there, I'm Prasanna
+
+###  Data Scientist
 <p align="center">
   <img src="C:\Users\Prasanna Rongali\Downloads\Prasanna.png (2).jpeg" width="350"/>
 </p>
